@@ -38,7 +38,7 @@
 ### Установка самой программы 
 
 
-```git clone https:/github.com/antiantiplagiat```
+```git clone https:/github.com/lilp1ka/antiantiplagiat```
 
 
 ## 🌅Использование
