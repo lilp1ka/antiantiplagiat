@@ -5,7 +5,7 @@
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/lilp1ka/antiantiplagiat/total?color=%239cf">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="130" height="20" role="img" aria-label="developed by: lilp1ka"><title>developed by: lilp1ka</title><linearGradient id="s" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient><clipPath id="r"><rect width="130" height="20" rx="3" fill="#fff"/></clipPath><g clip-path="url(#r)"><rect width="83" height="20" fill="#555"/><rect x="83" width="47" height="20" fill="#9f9f9f"/><rect width="130" height="20" fill="url(#s)"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110"><text aria-hidden="true" x="425" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="730">developed by</text><text x="425" y="140" transform="scale(.1)" fill="#fff" textLength="730">developed by</text><text aria-hidden="true" x="1055" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="370">lilp1ka</text><text x="1055" y="140" transform="scale(.1)" fill="#fff" textLength="370">lilp1ka</text></g></svg></br>
+
 🤓Наша программа обходит все антиплагиаты абсолютно всех Университететов СНГ
 
 🍀**Уникальность** вашей работы будет не меньше **90%**
