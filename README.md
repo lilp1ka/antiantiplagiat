@@ -4,8 +4,7 @@
 </p>
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
-<img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/lilp1ka/antiantiplagiat/total?color=%239cf">
-
+</br>
 🤓Наша программа обходит все антиплагиаты абсолютно всех Университететов СНГ
 
 🍀**Уникальность** вашей работы будет не меньше **90%**
@@ -57,3 +56,4 @@
 ## 📊Social Media 
 ```t.me/aaplagiat``` [Telegram]</br>
 ```instagram.com/lilp1ka```[Instagram]
+
